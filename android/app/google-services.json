@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063505502083",
+    "project_id": "vibe-trip-app",
+    "storage_bucket": "vibe-trip-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063505502083:android:a9d1e99a126f632b3320b6",
+        "android_client_info": {
+          "package_name": "com.example.vibe_trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063505502083-9aemk7d6s2klngm9l1q1a0e5si0iuf7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.vibe_trip",
+            "certificate_hash": "9472c7daa9d5ef90eecdfec66dbd0631cb7acd34"
+          }
+        },
+        {
+          "client_id": "1063505502083-vndn4b8fivctdc31svm994sncn99sdlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7OXjMvftaW4sM6NfAYf5jIl1OFEg1b4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063505502083-vndn4b8fivctdc31svm994sncn99sdlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

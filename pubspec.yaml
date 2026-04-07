@@ -1,0 +1,32 @@
+name: vibe_trip_flutter
+description: "A cross-platform Vibe Trip application."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: any
+  provider: any
+  http: any
+  url_launcher: any
+  shared_preferences: any
+  google_generative_ai: any
+  local_auth: any
+  cached_network_image: any
+  firebase_core: any
+  firebase_auth: any
+  google_sign_in: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: any
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
